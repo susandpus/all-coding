@@ -1,0 +1,80 @@
+body{
+    margin: 0%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+nav>ul{
+    list-style: none;
+    display: flex;
+    color: black;
+}
+nav>ul>li>a{
+    text-decoration: none;
+}
+#products{
+    font-size: 30px;
+    text-decoration-style: bold;
+}
+.login{
+    padding: 10px 10px;
+}
+#sign{
+    margin-left: 600px;
+}
+.section-one{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.section-one>div{
+width: 50%;
+margin-left: 50px;
+text-align: justify;
+}
+#freebook{
+    text-decoration: none;
+    color: white;
+    background-color: steelblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+#start{
+    font-size: 40px;
+    font-style: bold;
+}
+#lorem{margin-bottom: 40px;}
+
+
+.section-two{
+    display: flex;
+}
+.section-two>div{
+    width: 33%;
+    margin-left: 30px;
+}
+
+.fiex{
+    font-size: 30px;
+    font-style: bold;
+}
+#see-more{
+    margin-left: 1200px;
+    color: blue;
+    background-color: none;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 30px;
+}
+footer{
+    background-color: rgb(111, 111, 235);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+#head{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
